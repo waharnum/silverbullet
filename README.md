@@ -1,6 +1,6 @@
 # SilverBullet
 
-Solve all computer problems forever.
+Solve all computer problems forever (POSIX systems only)
 
 ## Usage
 
