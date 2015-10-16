@@ -16,4 +16,6 @@ Solve all computer problems forever.
   - hold someone you love close
     - let the stars turn over you
 
+## Video Tutorial
 
+[![silverbullet.sh video tutorial](http://img.youtube.com/vi/IDr_SRhJs80/0.jpg)](https://www.youtube.com/watch?v=IDr_SRhJs80)
