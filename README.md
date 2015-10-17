@@ -1,6 +1,10 @@
+
 # SilverBullet
 
-Solve all computer problems forever (POSIX systems only)
+>*"How much of what software engineers now do is still devoted to the accidental, as opposed to the essential?"*
+>**Fred Brooks**
+
+Solve all computer problems forever (currently POSIX systems only)
 
 ## Usage
 
