@@ -1,4 +1,4 @@
-#!/bin/qsh
+#!/bin/bash
 
 echo "Go outside"
 echo "Feel the sun on your face, or the rain if it is raining"
