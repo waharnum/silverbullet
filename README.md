@@ -20,6 +20,13 @@ Solve all computer problems forever (currently POSIX systems only)
   - hold someone you love close
     - let the stars turn over you
 
-## Video Tutorial
+## Video Tutorials
 
-[![silverbullet.sh video tutorial](http://img.youtube.com/vi/IDr_SRhJs80/0.jpg)](https://www.youtube.com/watch?v=IDr_SRhJs80)
+### Quick Introduction
+
+[![silverbullet.sh video tutorial - quick introduction](http://img.youtube.com/vi/IDr_SRhJs80/0.jpg)](https://www.youtube.com/watch?v=IDr_SRhJs80)
+
+### Extended Tutorial
+
+[![silverbullet.sh video tutorial - extend tutorial](http://img.youtube.com/vi/fI9k2vQb3VM/0.jpg)]
+(https://www.youtube.com/watch?v=fI9k2vQb3VM)
