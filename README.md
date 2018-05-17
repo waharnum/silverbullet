@@ -28,5 +28,4 @@ Solve all computer problems forever (currently POSIX systems only)
 
 ### Extended Tutorial
 
-[![silverbullet.sh video tutorial - extend tutorial](http://img.youtube.com/vi/fI9k2vQb3VM/0.jpg)]
-(https://www.youtube.com/watch?v=fI9k2vQb3VM)
+[![silverbullet.sh video tutorial - quick introduction](http://img.youtube.com/vi/fI9k2vQb3VM/0.jpg)](https://www.youtube.com/watch?v=fI9k2vQb3VM)
