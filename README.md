@@ -19,6 +19,7 @@ Solve all computer problems forever (currently POSIX systems only)
 - run through the grass like you did when you were a child
   - hold someone you love close
     - let the stars turn over you
+- continuous integration
 
 ## Video Tutorials
 
