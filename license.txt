@@ -1,4 +1,4 @@
-This code is licensed under the Lesser Artistic License, and free for use by all as they desire, without attribution or blame, at your own risk of safety.
+This code is licensed under the Lesser Artistic License, and free for use by all as they desire, without attribution or blame, at their own risk.
 
 Vīta brevis,
 ars longa,
